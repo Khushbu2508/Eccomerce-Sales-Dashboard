@@ -10,7 +10,7 @@ Key KPIs
 - Total Quantity Sold
 - Total Profit
 - Average Order Value (AOV)
-- 
+  
 Key Features
 - Quarterly analysis using Qtr 1 – Qtr 4 slicers
 - Monthly profit trend analysis
