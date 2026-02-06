@@ -6,10 +6,10 @@
 - Helps stakeholders make data-driven decisions using visual insights
 
 Key KPIs
-- Total Sales (Amount): 438K
-- Total Quantity Sold: 5,615
-- Total Profit: 37K
-- Average Order Value (AOV): 121K
+- Total Sales (Amount)
+- Total Quantity Sold
+- Total Profit
+- Average Order Value (AOV)
 - 
 Key Features
 - Quarterly analysis using Qtr 1 – Qtr 4 slicers
@@ -45,4 +45,5 @@ Tools & Technologies Used
 - Business Analytics Concepts
 
 **Dashboard**
+![image](https://github.com/Khushbu2508/Eccomerce-Sales-Dashboard/blob/main/eccomerce%20sales%20dashboard.png)
 
